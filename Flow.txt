@@ -1,0 +1,13 @@
+Raw Text
+   ↓
+Clean Data
+   ↓
+Train-Test Split
+   ↓
+Vectorize (Text → Numbers)
+   ↓
+Train Model
+   ↓
+Predict
+   ↓
+Evaluate
